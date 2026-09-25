@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cyber-security-101/dl/
+Disallow: /dl/
+
+Sitemap: https://yarosim.github.io/cyber-security-101/sitemap.xml
