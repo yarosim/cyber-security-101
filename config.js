@@ -4,10 +4,10 @@
 window.CS101_CONFIG = {
   SUPPORT_EMAIL: "pnsgloballlc@gmail.com",
   PAYMENT_LINKS: {
-    "scam-defense-kit": "https://buy.stripe.com/9B600jd6AgNKdrYgTW2Ji28",
-    "mfa-passkey-pack": "https://buy.stripe.com/7sY00jaYsapmafM9ru2Ji29",
-    "small-business-kit": "https://buy.stripe.com/7sY8wP1nS696drYfPS2Ji2a",
-    "complete-bundle": "https://buy.stripe.com/4gM6oH3w08hefA6bzC2Ji2b"
+    "scam-defense-kit": "https://vb3mfp-qd.myshopify.com/products/cs101-scam-text-phishing-defense-kit",
+    "mfa-passkey-pack": "https://vb3mfp-qd.myshopify.com/products/cs101-mfa-passkey-setup-checklist-pack",
+    "small-business-kit": "https://vb3mfp-qd.myshopify.com/products/cs101-small-business-cyber-starter-kit",
+    "complete-bundle": "https://vb3mfp-qd.myshopify.com/products/cs101-complete-bundle"
   },
   VIDEOS: {
     /* Paste the scam-text "5-second check" Short URL when published; the card stays hidden while empty. */
